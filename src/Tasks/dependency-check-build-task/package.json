@@ -12,7 +12,7 @@
     "azure-pipelines-task-lib": "^3.0.6-preview.1",
     "decompress-zip": "^0.3.3",
     "is-core-module": "^2.4.0",
-    "resolve": "^1.20.0",
+    "resolve": "^1.22.12",
     "typed-rest-client": "^1.8.1"
   },
   "devDependencies": {
